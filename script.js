@@ -1,1 +1,2 @@
-console.log("word");
+str="word"
+console.log(str);
